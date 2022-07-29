@@ -1,0 +1,15 @@
+[submodule "revanced-cli"]
+	path = revanced-cli
+	url = https://github.com/revanced/revanced-cli
+[submodule "revanced-integrations"]
+	path = revanced-integrations
+	url = https://github.com/revanced/revanced-integrations
+[submodule "revanced-manager"]
+	path = revanced-manager
+	url = https://github.com/revanced/revanced-manager
+[submodule "revanced-patcher"]
+	path = revanced-patcher
+	url = https://github.com/revanced/revanced-patcher
+[submodule "revanced-patches"]
+	path = revanced-patches
+	url = https://github.com/revanced/revanced-patches
